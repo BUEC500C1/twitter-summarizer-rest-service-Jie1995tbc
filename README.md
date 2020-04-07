@@ -18,6 +18,9 @@
 - Develop the twitter functionality with an API
 - Integrate them
 
+## AWS
+ec2-54-234-214-223.compute-1.amazonaws.com
+
 
 
 
